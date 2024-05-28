@@ -1,2 +1,4 @@
 */__pycache__/*
 0x02-i18n/.0x02-i18n/*
+.venv/lib64
+.venv/*
